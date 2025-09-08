@@ -1,5 +1,5 @@
 ## Hello, world!
 
-I study in Metology
+I study in Netology
 
 14.09.2025
